@@ -50,7 +50,7 @@ Below are example screenshots demonstrating the application's main features:
   *User input form for registering new complaints.*
 
 - **Complaint Status Window:**
-  ![Status](Status_new.png)
+  ![Status](status_new.png)
   *Real-time tracking of complaint progress.*
 
 - **Admin Report View:**
