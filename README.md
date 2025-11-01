@@ -25,7 +25,8 @@ The College Complaint Management System is a Java-based desktop application desi
 ### How to Run
 1. **Compile all Java files:**
    ```
-   javac *.java
+   javac CGClient.java
+   
    ```
 2. **Run the main class:**
    ```
